@@ -1,0 +1,11 @@
+{
+    "name": "code-architect/code-ark-lite",
+    "description": "A lightweight php framework for small projects",
+    "authors": [
+        {
+            "name": "code-architect",
+            "email": "codearchitectdeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
