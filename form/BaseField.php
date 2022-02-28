@@ -1,15 +1,15 @@
 <?php
 
 
-namespace app\core\form;
+namespace codearchitect\codearklite\form;
 
 
-use app\core\Model;
+use codearchitect\codearklite\Model;
 
 /**
  * Class BaseField
  * @author: Indranil Samanta (code-architec)
- * @package app\core\form
+ * @package codearchitect\codearklite\form
  */
 abstract class BaseField
 {

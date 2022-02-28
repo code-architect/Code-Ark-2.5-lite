@@ -1,15 +1,15 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace codearchitect\codearklite\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use codearchitect\codearklite\Application;
+use codearchitect\codearklite\exception\ForbiddenException;
 
 /**
  * @author: Indranil Samanta (code-architec)
  * Class AuthMiddleware
- * @package app\core\middlewares
+ * @package codearchitect\codearklite\middlewares
  */
 class AuthMiddleware extends BaseMiddleware
 {

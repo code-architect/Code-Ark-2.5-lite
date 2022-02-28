@@ -2,13 +2,13 @@
 /* Class Field
  *
  * @author: Indranil Samanta (code-architect)
- * @package app\core\form
+ * @package codearchitect\codearklite\form
 */
 
-namespace app\core\form;
+namespace codearchitect\codearklite\form;
 
 
-use app\core\Model;
+use codearchitect\codearklite\Model;
 
 class InputField extends BaseField
 {

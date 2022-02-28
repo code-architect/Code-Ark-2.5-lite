@@ -1,15 +1,15 @@
 <?php
-namespace app\core;
+namespace codearchitect\codearklite;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use codearchitect\codearklite\db\Database;
+use codearchitect\codearklite\db\DbModel;
 use app\models\User;
 
 /**
  * Class Application
  *
  * @author: Indranil Samanta (code-architect)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Application
 {

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
 
-use app\core\db\DbModel;
+use codearchitect\codearklite\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

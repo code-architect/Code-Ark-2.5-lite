@@ -2,10 +2,10 @@
 /* Class Model
  *
  * @author: Indranil Samanta (code-architect)
- * @package app\core
+ * @package codearchitect\codearklite
 */
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
 
 abstract class Model

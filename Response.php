@@ -1,10 +1,10 @@
 <?php
-namespace app\core;
+namespace codearchitect\codearklite;
 
 /**
  * Class Response
  * @author: Indranil Samanta (code-architec)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Response
 {

@@ -1,15 +1,15 @@
 <?php
 
 
-namespace app\core\db;
+namespace codearchitect\codearklite\db;
 
-use app\core\Application;
-use app\core\Model;
+use codearchitect\codearklite\Application;
+use codearchitect\codearklite\Model;
 
 /**
  * Class DbModel
  * @author: Indranil Samanta (code-architect)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 abstract class DbModel extends Model
 {

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core\exception;
+namespace codearchitect\codearklite\exception;
 
 /**
  * @author: Indranil Samanta (code-architec)
  * Class ForbiddenException
- * @package app\core\exception
+ * @package codearchitect\codearklite\exception
  */
 class ForbiddenException extends \Exception
 {

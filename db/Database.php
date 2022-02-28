@@ -2,13 +2,13 @@
 /**
  * @author: Indranil Samanta (code-architect)
  * Class Database
- * @package app\core
+ * @package codearchitect\codearklite
  */
 
-namespace app\core\db;
+namespace codearchitect\codearklite\db;
 
 
-use app\core\Application;
+use codearchitect\codearklite\Application;
 
 class Database
 {

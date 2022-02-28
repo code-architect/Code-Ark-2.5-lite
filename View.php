@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
 /**
  * Class View
  * @author: Indranil Samanta (code-architect)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class View
 {

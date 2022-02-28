@@ -1,15 +1,15 @@
 <?php
 
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
-use app\core\middlewares\BaseMiddleware;
+use codearchitect\codearklite\middlewares\BaseMiddleware;
 
 /**
  * Class Controller
  *
  * @author: Indranil Samanta (code-architec)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Controller
 {

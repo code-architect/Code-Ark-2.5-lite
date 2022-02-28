@@ -1,13 +1,13 @@
 <?php
-namespace app\core;
+namespace codearchitect\codearklite;
 
-use app\core\exception\NotFoundException;
+use codearchitect\codearklite\exception\NotFoundException;
 
 /**
  * Class Router
  *
  * @author: Indranil Samanta (code-architec)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Router
 {

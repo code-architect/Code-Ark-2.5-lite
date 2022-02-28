@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
 /**
  * @author: Indranil Samanta (code-architect)
  * Class Session
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Session
 {

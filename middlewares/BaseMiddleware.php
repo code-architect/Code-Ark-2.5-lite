@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace codearchitect\codearklite\middlewares;
 
 /**
  * @author: Indranil Samanta (code-architec)
  * Class BaseMiddleware
- * @package app\core\middlewares
+ * @package codearchitect\codearklite\middlewares
  */
 abstract class BaseMiddleware
 {

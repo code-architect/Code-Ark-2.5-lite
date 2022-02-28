@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core;
+namespace codearchitect\codearklite;
 
 /**
  * Class Request
  * @author: Indranil Samanta (code-architec)
- * @package app\core
+ * @package codearchitect\codearklite
  */
 class Request
 {

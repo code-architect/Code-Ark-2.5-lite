@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace codearchitect\codearklite\form;
 
 
 class TextareaField extends BaseField
